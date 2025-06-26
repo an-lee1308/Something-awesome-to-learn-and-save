@@ -24,3 +24,6 @@ Controllers and Views folders
 # learn about design pattern to apply
 
 let's go
+
+/ resume
+router another to redirect sth
