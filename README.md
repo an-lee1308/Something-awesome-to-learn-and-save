@@ -19,6 +19,7 @@ Request
 Query params
 Response
 MVC
+Implement access token/refresh token
 Controllers and Views folders
 # setup redis,mq,socket,...
 # learn about design pattern to apply
