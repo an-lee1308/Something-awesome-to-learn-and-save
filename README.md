@@ -5,22 +5,22 @@ Plan
 
 # Frontend react have more router 
 # Backend
--Socket
-Protocol: Http1.1
+- Socket
+- Protocol: Http1.1
 Pipeline ordering
-Exception
-CORS
-StaticFile
-Authentication
-Authorization
-Routing
-REST API
-Request
-Query params
-Response
-MVC
-Implement access token/refresh token
-Controllers and Views folders
+- Exception
+- CORS
+- StaticFile
+- Authentication
+- Authorization
+- Routing
+- REST API
+- Request
+- Query params
+- Response
+- MVC
+- Implement access token/refresh token
+- Controllers and Views folders
 # setup redis,mq,socket,...
 # learn about design pattern to apply
 
